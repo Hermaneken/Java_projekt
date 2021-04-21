@@ -10,7 +10,7 @@ public class Testpagkageclass {
             } else; {
             System.out.println("matten suger");
         }
-        System.out.println("janne");
+        System.out.println("jannehoukko");
     }
 }
 
